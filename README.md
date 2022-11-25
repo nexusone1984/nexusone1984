@@ -2,7 +2,7 @@
 - 👀 Retro Hardware/software/design/programing/also includes New hardware systems
 - 🌱 I am currently working on Minimun Z80 system and 8+bit development system for general use to include other processors
 - 💞️ Looking to share my knoledge, learn and help others learn, welcome comments and suggestions for improvements.
-- 📫 How to reach me eric.stringer@gmail.com
+- 📫 How to reach me 
 - Website: https://sites.google.com/view/erics-projects/home
 
 <!---
